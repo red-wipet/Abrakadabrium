@@ -1,0 +1,11 @@
+﻿  Abrakadabrium.peaceful.cpp
+C:\Users\MrSuperBuddy\source\repos\Abrakadabrium.peaceful\Abrakadabrium.peaceful\Abrakadabrium.peaceful.cpp(165,7): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Abrakadabrium.peaceful\Abrakadabrium.peaceful\Abrakadabrium.peaceful.cpp(175,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Abrakadabrium.peaceful\Abrakadabrium.peaceful\Abrakadabrium.peaceful.cpp(180,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Abrakadabrium.peaceful\Abrakadabrium.peaceful\Abrakadabrium.peaceful.cpp(711,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Abrakadabrium.peaceful\Abrakadabrium.peaceful\Abrakadabrium.peaceful.cpp(770,9): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Abrakadabrium.peaceful.vcxproj -> C:\Users\MrSuperBuddy\source\repos\Abrakadabrium.peaceful\Release\Abrakadabrium.peaceful.exe
